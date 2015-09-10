@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//flirt/migrations/0001_initial.py=utf-8
+encoding//flirt/migrations/0002_auto_20150814_0421.py=utf-8
+encoding//users/serializers.py=utf-8
+encoding//users/urls.py=utf-8
+encoding//world/migrations/0001_initial.py=utf-8
